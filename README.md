@@ -1,4 +1,4 @@
-# Project ななはる♪
+# ななはる♪
 > 誰でも開発に参加できるOSSのDiscordボット
 - MITライセンスのOSS
 
